@@ -1,0 +1,20 @@
+[
+  {
+    "tittle": "CD",
+    "price": 191,
+    "thumbnail": "https://asd.com/1.png",
+    "id": 1
+  },
+  {
+    "tittle": "Libro",
+    "price": 500,
+    "thumbnail": "https://asd.com/2.png",
+    "id": 2
+  },
+  {
+    "tittle": "DVD",
+    "price": 716,
+    "thumbnail": "https://asd.com/3.png",
+    "id": 3
+  }
+]
